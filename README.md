@@ -1,4 +1,4 @@
-# BetterAssetNodes
+# AssetNodesPlus
 A Neosvr plugin that adds a few handy nodes that are related to handling assets.
 Current nodes it adds:
   - CreateAssetLoader
