@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OhOtL5CHyLO537VFzuOhtr89X6D7FqGcUqy+rFJIu8QFDyP5ctyrpRTISM4hylmbrWQP6yTG+CgrxBwTgwMVLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\woute\\source\\repos\\AssetNodesPlus\\AssetNodesPlus\\AssetNodesPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\woute\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\woute\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\woute\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
